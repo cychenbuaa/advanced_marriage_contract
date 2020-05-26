@@ -1,0 +1,2 @@
+# advanced_marriage_contract
+基于中华人民共和国现行法律框架下的契约制婚姻模板
